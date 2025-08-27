@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+mediapipe
+numpy
+opencv-python
+scikit-learn
+Pillow
+sqlalchemy
